@@ -20,9 +20,9 @@ body{
 .sec1{
     margin-top: 18px;
     margin-left: 35px;
-    width: 100%;
-    justify-content: space-evenly;
+    width: 30%;
     display: flex;
+    justify-content: center;
     color: white;
     font-size: large;
 }
