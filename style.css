@@ -129,3 +129,15 @@ h1{
     left: 15px;
     z-index: -1;
 }
+.stack2{
+    margin-top: 7px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -50px;
+}
+.stack{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 7px;
+    margin-left: 30px;
+}
