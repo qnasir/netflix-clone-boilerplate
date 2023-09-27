@@ -1,0 +1,131 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+}
+#netflix{
+    height: 30px;
+}
+.bi{
+    background-image: url(/assets/Title-Image.png);
+    background-size: cover;
+    height: 820px;
+    box-shadow: black;
+}
+.head{
+    display: flex;
+}
+.sec1{
+    margin-top: 18px;
+    margin-left: 35px;
+    width: 100%;
+    justify-content: space-evenly;
+    display: flex;
+    color: white;
+    font-size: large;
+}
+.icons{
+    display: flex;
+    width: 40%;
+    justify-content: space-evenly;
+    margin-left:900px;
+    margin-right: 30px;
+    margin-top: 25px;
+    height: 20px;
+}
+.symbol{
+    display: flex;
+    margin-top: 350px;
+    margin-left: 68px;
+}
+#n{
+    height: 35px;
+}
+#show{
+    margin-left: 15px;
+    margin-top: 5px;
+    color: white;
+}
+h1{
+    color: white;
+    margin-top: -15px;
+    margin-left: 60px;
+    font-size: 180px;
+    font-weight: bold;
+}
+#play{
+    background-color: white;
+    height: 35px;
+    width: 80px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 60px;
+    font-weight: bold;
+    padding-top: 5px;
+    display: flex;
+    justify-content: center;
+}
+#info{
+    height: 35px;
+    width: 100px;
+    background-color: white;
+    border: none;
+    justify-content: center;
+    display: flex;
+    border-radius: 5px;
+    margin-left: 10px;
+    font-weight: bold;
+    padding-top: 5px;
+}
+.buttons{
+    display: flex;
+}
+#p{
+    margin-top: 5px;
+    margin-left: 3px;
+}
+#img{
+    height: 18px;
+    margin-top: 3px;
+}
+#add{
+    margin-left: 1478px;
+    filter: invert(1);
+    margin-top: 25px;
+}
+.see{
+    margin-top: 40px;
+    margin-left: 60px;
+}
+#see1{
+    font-weight: bold;
+    color: white;
+}
+#arrowright{
+    height: 10px;
+    filter: invert(1);
+}
+.stack1 {
+    display: flex;
+    margin-left: 30px;
+    justify-content: space-evenly;
+    margin-top: -30px;
+}
+#stack1{
+    border-radius: 7px;
+}
+#top{
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+#number{
+    height: 200px;
+    position: relative;
+    left: 15px;
+    z-index: -1;
+}
