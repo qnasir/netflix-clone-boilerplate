@@ -14,4 +14,4 @@ The font used: Roboto & Nunito Sans
 
 If you need more icons you can visit [flaticons.com](https://www.flaticon.com/)
 
-my link:- https://graceful-blancmange-913ee4.netlify.app/
+my link:- https://65153ea1e2c6256d30186a3f--flourishing-marshmallow-235815.netlify.app/
