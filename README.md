@@ -13,5 +13,3 @@ The font used: Roboto & Nunito Sans
 
 
 If you need more icons you can visit [flaticons.com](https://www.flaticon.com/)
-
-my link:- https://exquisite-llama-30d898.netlify.app/
